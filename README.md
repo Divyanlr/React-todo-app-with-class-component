@@ -16,4 +16,4 @@ The TodoList component is a class-based React component that manages a list of t
 			§ A button to add the typed item to the list.
 			§ An unordered list (<ul>) that dynamically displays all items in the item array.
 			§ Each list item (<li>) has a "Delete" button to remove the corresponding item.
-
+![image](https://github.com/user-attachments/assets/c9035848-0eec-4863-a9ef-56442fc195a9)
